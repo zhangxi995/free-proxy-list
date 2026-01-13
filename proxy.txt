@@ -1,6 +1,16 @@
-# 代理列表更新时间: 2026-01-12 23:12:50
+# 代理列表更新时间: 2026-01-13 11:26:36
 # 总计: 30 个代理
 
+socks5://185.194.177.18:8080 [[机房] 德国 黑森州 法兰克福 [FREAKHOSTING]]
+socks5://18.179.119.184:6666 [[机房] 柬埔寨 [Spidernet Co.,Ltd]]
+socks5://31.15.16.218:1080 [[机房] 荷兰 北荷兰省 阿姆斯特丹 [CGI GLOBAL LIMITED]]
+socks5://18.179.31.59:1080 [[机房] 日本 东京 东京 — 亚马逊云 Aws [Amazon Data Services Japan]]
+socks5://92.241.120.34:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
+socks5://92.241.120.87:1080 [[家宽] 俄罗斯 [Smoltelecom PPPoE (dynamic IPs for Citycomm, pool #1)]]
+socks5://194.87.162.195:1080 [[机房] 保加利亚 索非亚首都区 索菲亚 [Council of Ministers]]
+socks5://194.58.42.234:1080 [[机房] 哈萨克斯坦 阿拉木图 阿拉木圖 [Big Data Host LLC]]
+socks5://51.4.59.110:1080 [[机房] 以色列 Tel Aviv-Yafo — Cloudflare CDN 节点 [Cloudflare, Inc.]]
+socks5://94.143.231.137:1080 [[机房] 德国 黑森州 法兰克福 [dataforest GmbH]]
 socks5://87.15.151.88:1080 [[家宽] 意大利 伦巴第大区 米兰 [Telecom Italia S.p.A. TIN EASY LITE]]
 socks5://46.160.50.38:1080 [[机房] 俄罗斯 伊万诺沃州 伊万诺沃 [Provider in Ivanovo, Russia]]
 socks5://195.14.112.47:1080 [[机房] 波兰 下西里西亚省 [WZSERWIS]]
@@ -21,13 +31,3 @@ socks5://70.34.216.68:1080 [[机房] 美国 纽约州 纽约 [LLC "Whirl Softwar
 socks5://103.126.23.177:1080 [[家宽] 孟加拉国 达卡专区 达卡 [Earth Telecommunication(Pvt.)Ltd.]]
 socks5://95.221.7.46:1080 [[家宽] 俄罗斯 摩爾曼斯克州 摩爾曼斯克 [Net By Net Holding LLC]]
 socks5://64.225.107.118:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DIGITALOCEAN]]
-socks5://92.38.49.84:1080 [[家宽] 哈萨克斯坦 阿拉木图 阿拉木圖 [EQU Technologies LLP]]
-socks5://92.38.212.54:1080 [[机房] 德国 黑森州 法兰克福 — DigitalOcean [DigitalOcean, LLC]]
-socks5://199.68.199.24:1080 [[机房] 瑞典 哈兰省 法尔肯贝里 [www.fornex.com, Fornex Hosting S.L.]]
-socks5://52.63.221.85:1080 [[机房] 澳大利亚 新南威尔士州 悉尼 — 亚马逊云 Aws [Amazon Technologies Inc.]]
-socks5://213.108.217.160:1080 [[机房] 挪威 西福尔郡 桑德尔福德 [GIGAHOST V6]]
-socks5://164.92.110.177:60000 [[机房] 美国 亚拉巴马州 蒙哥马利 [Charter Communications LLC]]
-socks5://36.50.135.18:30000 [[家宽] 德国 黑森州 法兰克福 [ByteHosting]]
-socks5://91.107.189.95:1080 [[机房] 德国 萨克森州 法尔肯施泰因 — Hetzner [Hetzner Online GmbH]]
-socks5://13.209.82.132:1080 [[机房] 韩国 仁川 仁川广域市 — 亚马逊云 Aws [Amazon.com, Inc.]]
-socks5://5.180.24.144:1080 [[机房] 美国 新泽西州 锡考克斯 [WorkTitans B.V.]]
